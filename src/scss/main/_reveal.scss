@@ -1,0 +1,122 @@
+
+.reveal-block {
+  display: block !important;
+}
+
+.reveal-inline-block {
+  display: inline-block !important;
+}
+
+.reveal-inline {
+  display: inline !important;
+}
+
+.reveal-flex {
+  display: -ms-flexbox !important;
+  display: -webkit-flex !important;
+  display: flex !important;
+}
+
+.veil {
+  display: none !important;
+}
+
+@media (min-width: 480px) {
+  .reveal-xs-block {
+    display: block !important;
+  }
+  .reveal-xs-inline-block {
+    display: inline-block !important;
+  }
+  .reveal-xs-inline {
+    display: inline !important;
+  }
+  .reveal-xs-flex {
+    display: -ms-flexbox !important;
+    display: -webkit-flex !important;
+    display: flex !important;
+  }
+  .veil-xs {
+    display: none !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .reveal-sm-block {
+    display: block !important;
+  }
+  .reveal-sm-inline-block {
+    display: inline-block !important;
+  }
+  .reveal-sm-inline {
+    display: inline !important;
+  }
+  .reveal-sm-flex {
+    display: -ms-flexbox !important;
+    display: -webkit-flex !important;
+    display: flex !important;
+  }
+  .veil-sm {
+    display: none !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .reveal-md-block {
+    display: block !important;
+  }
+  .reveal-md-inline-block {
+    display: inline-block !important;
+  }
+  .reveal-md-inline {
+    display: inline !important;
+  }
+  .reveal-md-flex {
+    display: -ms-flexbox !important;
+    display: -webkit-flex !important;
+    display: flex !important;
+  }
+  .veil-md {
+    display: none !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .reveal-lg-block {
+    display: block !important;
+  }
+  .reveal-lg-inline-block {
+    display: inline-block !important;
+  }
+  .reveal-lg-inline {
+    display: inline !important;
+  }
+  .reveal-lg-flex {
+    display: -ms-flexbox !important;
+    display: -webkit-flex !important;
+    display: flex !important;
+  }
+  .veil-lg {
+    display: none !important;
+  }
+}
+
+@media (min-width: 1800px) {
+  .reveal-xl-block {
+    display: block !important;
+  }
+  .reveal-xl-inline-block {
+    display: inline-block !important;
+  }
+  .reveal-xl-inline {
+    display: inline !important;
+  }
+  .reveal-xl-flex {
+    display: -ms-flexbox !important;
+    display: -webkit-flex !important;
+    display: flex !important;
+  }
+  .veil-xl {
+    display: none !important;
+  }
+}

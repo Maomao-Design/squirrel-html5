@@ -1,0 +1,60 @@
+
+@media (min-width: 480px) {
+  html:not(.lt-ie10) .text-xs-left {
+    text-align: left;
+  }
+  html:not(.lt-ie10) .text-xs-center {
+    text-align: center;
+  }
+  html:not(.lt-ie10) .text-xs-right {
+    text-align: right;
+  }
+  html:not(.lt-ie10) .text-xs-justify {
+    text-align: justify;
+  }
+}
+
+@media (min-width: 768px) {
+  html:not(.lt-ie10) .text-sm-left {
+    text-align: left;
+  }
+  html:not(.lt-ie10) .text-sm-center {
+    text-align: center;
+  }
+  html:not(.lt-ie10) .text-sm-right {
+    text-align: right;
+  }
+  html:not(.lt-ie10) .text-sm-justify {
+    text-align: justify;
+  }
+}
+
+@media (min-width: 992px) {
+  html:not(.lt-ie10) .text-md-left {
+    text-align: left;
+  }
+  html:not(.lt-ie10) .text-md-center {
+    text-align: center;
+  }
+  html:not(.lt-ie10) .text-md-right {
+    text-align: right;
+  }
+  html:not(.lt-ie10) .text-md-justify {
+    text-align: justify;
+  }
+}
+
+@media (min-width: 1200px) {
+  html:not(.lt-ie10) .text-lg-left {
+    text-align: left;
+  }
+  html:not(.lt-ie10) .text-lg-center {
+    text-align: center;
+  }
+  html:not(.lt-ie10) .text-lg-right {
+    text-align: right;
+  }
+  html:not(.lt-ie10) .text-lg-justify {
+    text-align: justify;
+  }
+}
